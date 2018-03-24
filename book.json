@@ -15,7 +15,12 @@
       "sectionx",
       "codeblock-filename",
       "katex",
-      "donate"
+      "donate",
+      "puml",
+      "graph",
+      "chart" ,
+      "-sharing",
+      "sharing-plus"
       ],
   "pluginsConfig":{
     "github": {
@@ -27,16 +32,28 @@
         "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
     "sharing": {
-        "weibo": true,
-        "facebook": true,
-        "twitter": true,
-        "google": false,
-        "instapaper": false,
-        "vk": false,
-        "all": [
-            "facebook", "google", "twitter",
-                "weibo", "instapaper"
-        ]
+       "douban": false,
+       "facebook": false,
+       "google": true,
+       "hatenaBookmark": false,
+       "instapaper": false,
+       "line": true,
+       "linkedin": true,
+       "messenger": false,
+       "pocket": false,
+       "qq": false,
+       "qzone": true,
+       "stumbleupon": false,
+       "twitter": false,
+       "viber": false,
+       "vk": false,
+       "weibo": true,
+       "whatsapp": false,
+       "all": [
+           "qq","facebook", "google", "twitter",
+           "weibo", "instapaper", "linkedin",
+           "pocket", "stumbleupon"
+       ]
     },
      "donate": {
         "wechat": "//assets/import.png",
@@ -45,6 +62,9 @@
         "button": "赏",
         "alipayText": "支付宝打赏",
         "wechatText": "微信打赏"
-    }
+    },
+     "chart": {
+            "type": "c3"
+        }
   }  
 }
