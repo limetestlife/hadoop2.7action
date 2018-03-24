@@ -14,7 +14,8 @@
       "tbfed-pagefooter",
       "sectionx",
       "codeblock-filename",
-      "katex"],
+      "katex",
+      "donate"],
   "pluginsConfig":{
     "github": {
         "url": "https://github.com/limetestlife"
@@ -35,6 +36,14 @@
             "facebook", "google", "twitter",
                 "weibo", "instapaper"
         ]
+    },
+     "donate": {
+        "wechat": "//zhangjikai.com/resource/weixin.png",
+        "alipay": "//zhangjikai.com/resource/alipay.png",
+        "title": "",
+        "button": "赏",
+        "alipayText": "支付宝打赏",
+        "wechatText": "微信打赏"
     }
   }  
 }
