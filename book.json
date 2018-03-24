@@ -2,7 +2,7 @@
   "language":"zh-hans", 
   "plugins": [
       "atoc",
-      "mermaid",
+      "mermaid-gb3",
       "include-codeblock",
       "splitter",
       "-lunr",
@@ -15,7 +15,8 @@
       "sectionx",
       "codeblock-filename",
       "katex",
-      "donate"],
+      "donate"
+      ],
   "pluginsConfig":{
     "github": {
         "url": "https://github.com/limetestlife"
