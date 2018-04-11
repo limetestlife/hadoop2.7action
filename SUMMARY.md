@@ -9,9 +9,8 @@
   * [第一节 MapReduce运行流程](chapter2/mapreduceyun-xing-liu-cheng.md)
   * [第二节 Job的提交流程](chapter2/di-yi-jie-job-de-ti-jiao-liu-cheng.md)
   * [第三节 job源码](chapter2/di-er-jie-job-yuan-ma.md)
-* [HDFS](chapter3.md)
+* [第三章 MapReduce源码解析](chapter3.md)
+  * [第一节 MapReduce源码包结构](chapter3/di-yi-jiemapreduce-yuan-ma-bao-jie-gou.md)
 * [Yarn](chapter4.md)
 * [压缩格式](chapter5.md)
-
-
 
