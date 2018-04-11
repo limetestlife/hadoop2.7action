@@ -1,5 +1,6 @@
 
 新代码包清单
+
 | 新代码包名称 |简介|
 | ------------- |:-------------:|
 |org.apache.hadoop.mapreduce                             |阿斯蒂芬	 
@@ -31,5 +32,27 @@
 |org.apache.hadoop.mapreduce.v2.hs.protocolPB	 |
 |org.apache.hadoop.mapreduce.v2.hs.server	 |
 |org.apache.hadoop.mapreduce.v2.hs.webapp.dao	 |
-|org.apache.hadoop.mapreduce.v2.security   |
-共计30个包
+|org.apache.hadoop.mapreduce.v2.security 
+
+共计30个包分布在不同的jar文件中
+org.apache.hadoop:hadoop-mapreduce-client-app:2.4.0
+org.apache.hadoop:hadoop-mapreduce-client-common:2.4.0
+org.apache.hadoop:hadoop-mapreduce-client-core:2.4.0
+org.apache.hadoop:hadoop-mapreduce-client-hs:2.4.0
+org.apache.hadoop:hadoop-mapreduce-client-hs-plugins:2.4.0
+org.apache.hadoop:hadoop-mapreduce-client-jobclient:2.4.0
+org.apache.hadoop:hadoop-mapreduce-client-shuffle:2.4.0
+org.apache.hadoop:hadoop-mapreduce-examples:2.4.0
+
+对应关系入下：
+
+| jar包 |package|
+| ------------- |:-------------:|
+|mapreduce-client-app   |afadf<br> asfd<br> asdf <br>asf <br>asdf  |
+|mapreduce-client-common|
+|mapreduce-client-core|ass<br>bbb|
+
+
+
+
+
