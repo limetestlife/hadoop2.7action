@@ -1,6 +1,7 @@
 # Summary
-## 第一部分 - 入门
+
 * [前言](README.md)
+## 第一部分 - 入门
 * [第一章 轻松入门](chapter1.md)
   * [第一节 HelloWord](chapter1/di-yi-jie-helloword.md)
   * [第二节 伪分布集群搭建](chapter1/di-er-jie-wei-fen-bu-ji-qun-da-jian.md)
